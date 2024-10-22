@@ -20,4 +20,5 @@ O desenvolvimento deste menu animado foi inspirado pelo vídeo:
 - **CSS** (com uso de variáveis e animações)
 - **JavaScript** (para manipulação de classes e interação com o menu)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/98188266-cae1-4762-89d4-35b79605431e)
+
